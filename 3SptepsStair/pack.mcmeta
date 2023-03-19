@@ -2,6 +2,7 @@
   "pack": {
     "pack_format_min": 4,
     "description": "3SptepsStaire",
-	"tags": "Aesthetic"
+	"tags": "",
+	"categories": "Aesthetic"
   }
 }

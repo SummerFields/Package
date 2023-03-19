@@ -2,6 +2,7 @@
   "pack": {
     "pack_format_min": 4,
     "description": "NoteblockBanners",
-	"tags": "Utility"
+	"tags": "",
+	"categories": "Utility"
   }
 }

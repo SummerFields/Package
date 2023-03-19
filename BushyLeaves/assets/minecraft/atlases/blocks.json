@@ -1,0 +1,9 @@
+{
+    "sources": [
+        {
+            "type": "directory",
+            "source": "variant_full",
+            "prefix": "variant_full/"
+        }
+    ]
+}
