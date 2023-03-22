@@ -1,0 +1,52 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "variant_full/note_block/note_iron_xylophone",
+		"particle": "variant_full/note_block/note_iron_xylophone"
+	},
+	"elements": [
+		{
+			"from": [0, 16.01, 0.5],
+			"to": [16, 16.01, 3.5],
+			"faces": {
+				"up": {"uv": [0, 0.5, 16, 3.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, -0.01, 12.5],
+			"to": [16, -0.01, 15.5],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 16.01, 2]},
+			"faces": {
+				"down": {"uv": [0, 0.5, 16, 3.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-0.01, 12.5, 0],
+			"to": [-0.01, 15.5, 16],
+			"faces": {
+				"west": {"uv": [0, 0.5, 16, 3.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 12.5, -0.01],
+			"to": [16, 15.5, -0.01],
+			"faces": {
+				"north": {"uv": [0, 0.5, 16, 3.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [16.01, 12.5, 0],
+			"to": [16.01, 15.5, 16],
+			"faces": {
+				"east": {"uv": [0.25, 0.5, 16, 3.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 12.5, 16.01],
+			"to": [16, 15.5, 16.01],
+			"faces": {
+				"south": {"uv": [0, 0.5, 16, 3.5], "texture": "#0"}
+			}
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block_full/note_block/note_instrument",
+	"textures": {
+		"0": "minecraft:variant_full/note_block/note_custom_head",
+		"particle": "minecraft:variant_full/note_block/note_custom_head"
+	}
+}

@@ -1,0 +1,11 @@
+{
+  "mcminipack": {
+    "version": 0
+  },
+  "pack": {
+    "format_min": 4,
+    "description": "Makes note blocks easier to use for making music.",
+	  "tags": "music",
+	  "categories": "utility"
+  }
+}
