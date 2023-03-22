@@ -1,8 +1,6 @@
 {
   "pack": {
-    "pack_format_min": 4,
-    "description": "BushyLeaves",
-	"tags": "Aesthetic",
-	"categories": "Terrain"
+    "pack_format": 13,
+    "description": "Bushy Leaves"
   }
 }

@@ -1,0 +1,11 @@
+{
+  "mcminipack": {
+    "version": 0
+  },
+  "pack": {
+    "format_min": 4,
+    "description": "Makes tree leaves less cubic and more random.",
+	  "tags": "aesthetic, model",
+	  "categories": "terrain"
+  }
+}
